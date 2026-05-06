@@ -1,7 +1,7 @@
 # Website-c-nh-n-HTML
 # 1. Mô tả chức năng website cá nhân
 
-Website cá nhân được tạo bằng HTML nhằm giới thiệu bản thân, cung cấp thông tin cá nhân, sở thích và thông tin liên hệ.
+chào bạn đây là Website cá nhân của tôi nếu bạn có thác mắt hay có vấn đề gì về bài viết này của tôi thì xin hay chỉ giáo thêm cho tôi vì đây là lần đầu tôi được tiếp xúc với trang wed này.
 
 Website giúp người dùng:
 - Xem thông tin cá nhân
@@ -16,12 +16,13 @@ Các trang trong website được liên kết với nhau bằng menu điều hư
 
 ## Trang chủ - index.html
 
-Trang chủ dùng để giới thiệu tổng quan về website cá nhân.
+Trang chủ website cá nhân của tôi mới lập nên chưa có các thông tin chủ đạo nào cả 
 
 Nội dung gồm:
 - Tiêu đề website
 - Menu chuyển trang
-- Nội dung giới thiệu
+- Nội dung giới thiệu vì làm bài nộp cho thầy tôi cx chỉ hiểu sơ về wed
+- này thôi
 
 ---
 
