@@ -30,9 +30,9 @@ Nội dung gồm:
 Trang này dùng để hiển thị thông tin cá nhân.
 
 Nội dung gồm:
-- Họ tên
-- Ngành học
-- Quê quán
+- Họ tên mang trường chinh
+- Ngành học CDCNTT19
+- Quê quán khánh hoà
 
 ---
 
@@ -52,6 +52,5 @@ Nội dung gồm:
 Trang này dùng để cung cấp thông tin liên hệ.
 
 Nội dung gồm:
-- Facebook
-- Email
-- Số điện thoại
+- Email:chinhsiro2007@gmail.com
+- Số điện thoại:0935749943
