@@ -54,3 +54,22 @@ Trang này dùng để cung cấp thông tin liên hệ.
 Nội dung gồm:
 - Email:chinhsiro2007@gmail.com
 - Số điện thoại:0935749943
+
+---
+
+# 2. Công cụ thiết kế
+
+Các công cụ sử dụng để thiết kế website:
+
+- GitHub
+- HTML
+- CSS
+- Safari
+
+## Hình ảnh GitHub Pages
+
+![GitHub Pages](IMG_0783.png)
+
+## Hình ảnh website
+
+![Website](IMG_0804.jpeg)
